@@ -10,8 +10,8 @@ The intent is to use poin-in-time scan results to look for trade candidates for 
 
 There will be three point-in-time scan results each week. Each scan will have the common criteria.
 
-- Average Daily Range Percent (ADR) of past 20 days of >= 3.5.
-- Close above 200 Day Simple Moving Average of Close.
+- Average Daily Range Percent (ADR) of past 20 days >= 3.5.
+- Close above 200 Day Simple Moving Average.
 - Share price >= 5.
 - Average Daily Dollar Volume of past 20 days >= 6,000,000.
 - Average Daily Volume of past 20 days >= 250,000.
