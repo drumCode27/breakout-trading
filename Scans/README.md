@@ -10,7 +10,7 @@ The intent is to use poin-in-time scan results to look for trade candidates for 
 
 There will be three point-in-time scan results each week. Each scan will have the common criteria.
 
-- Average Daily Range Percent (ADR) of past 20 days >= 3.5.
+- Average Daily Range Percent (ADR) of past 20 days >= 4 (3.5 prior to 2024).
 - Close above 200 Day Simple Moving Average.
 - Share price >= 5.
 - Average Daily Dollar Volume of past 20 days >= 6,000,000.
@@ -24,4 +24,4 @@ The three scans will be:
 
 ## Scan Results
 
-The consolidated scan results are in file 20091016-20240517-ScanResults.csv and the source files are in this directory.
+The consolidated scan results are in file 20091016-20240927-ScanResults.csv and the source files are in this directory.
