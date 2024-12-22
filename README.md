@@ -23,4 +23,8 @@ The goal of this project is determine:
 
 ## Scan Results
 
-First phase of this project is to get [point-in-time scan results](/Scans).
+First phase of this project is to get [point-in-time scan results](/scans).
+
+## Backtesting/Live Trading
+
+Backtesting and live trading is in production. More info [here](/backtest).

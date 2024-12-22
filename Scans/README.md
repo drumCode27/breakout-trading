@@ -24,4 +24,4 @@ The three scans will be:
 
 ## Scan Results
 
-The consolidated scan results are in file 20091016-20240927-ScanResults.csv and the source files are in this directory.
+The consolidated scan results are in this directory.
