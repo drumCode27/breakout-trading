@@ -1,4 +1,4 @@
-Date,Count,Symbol,Company,Sector,Industry,Country,ThematicScore,ADRP20,ROC20_Rank,ROC20_Value,ROC65_Rank,ROC65_Value,ROC130_Rank,ROC130_Value
+ScanDate,Rank,Symbol,Company,Sector,Industry,Country,ThematicScore,ADRP20,ROC20_Rank,ROC20_Value,ROC65_Rank,ROC65_Value,ROC130_Rank,ROC130_Value
 20190201,1,AXSM,Axsome Therapeutics Inc,Healthcare,Biotechnology,USA,11,12,1,247.92,,,,
 20190201,2,CRON,Cronos Group Inc,Healthcare,Drug Manufacturers - Specialty & Generic,Canada,4,7.66,2,80.33,,,,
 20190201,3,INSM,Insmed Inc,Healthcare,Biotechnology,USA,11,6.38,3,75.49,,,,
