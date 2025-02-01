@@ -47,8 +47,8 @@ The three momentum lists (30, 90, 180 day) are consolidated into a single list o
 
 ##### Low of Day
 
-- Stop is Low of Day. Results are are at [stop-lod](/stop-lod).
+- Stop is Low of Day. Results are are at [stop-lod](stop-lod).
 
 ##### ADR Factor
 
-- Stop is (entry price - (ADR (Average Daily Range) x 1)). Results are are at [stop-adr-factor](/stop-adr-factor).
+- Stop is (entry price - (ADR (Average Daily Range) x 1)). Results are are at [stop-adr-factor](stop-adr-factor).
