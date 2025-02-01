@@ -31,7 +31,7 @@ The three momentum lists (30, 90, 180 day) are consolidated into a single list o
 
 - Setup (variety of break out setups) visually idenified via chart pattern.
 - Trigger price identified, typically above a recent pivot point or trendline.
-- Entry is when 1 minute close closed above 2 minute opening range high and trigger price.
+- Entry is when 1 minute close closes above 2 minute opening range high and trigger price.
 
 #### Exit
 
