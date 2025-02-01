@@ -20,6 +20,7 @@ Scan rules are:
 - Close >= 50 SMA
 - Average Daily Volume >= 250,000
 - Average Daily Dollar Volume >= 6,000,000
+- ADR (Average Daily Range) >= 4%
 - Percent return >= 30% for N period
 - In top 100 Percentage Gainers
 
