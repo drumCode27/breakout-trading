@@ -1,74 +1,74 @@
 ﻿Header,Value,Long
 Starting Date,11/10/2023,
-Ending Date,2/1/2025,
+Ending Date,2/2/2025,
 Starting Equity,"$100,000 ",
-Ending Equity,"$228,216.85 ",
-Net Profit,"$128,216.85 ",
-Net Profit %,128.22%,
-Gross Profit,"$235,920.91 ",
-Gross Loss,"($107,704.06)",
-CAGR,95.57%,
-Max. DD,"($36,320)",
-Max DD %,-14.09%,
-Total,426,426
-Avg. PnL ,$300.98 ,$300.98 
-Avg. PnL % ,4.05%,4.05%
-Avg. Unit PnL ,$0.68 ,$0 
-Avg. Bars ,2338.24,2338.24
-Avg. Bar PnL ,($4.43),($4.43)
-Avg. Time,8.83 / d,8.83 / d
-Total Efficiency,-20.04%,-20.04%
-Entry Efficiency,61.86%,61.86%
-Exit Efficiency,18.10%,18.10%
-Cumulative Profit,1726.99%,1726.99%
-Average MAE,($1.33),($1.33)
-Average MAE %,-3.95%,-3.95%
-Average MFE,$5.92 ,$5.92 
-Average MFE %,19.42%,19.42%
+Ending Equity,"$223,391.68 ",
+Net Profit,"$123,391.68 ",
+Net Profit %,123.39%,
+Gross Profit,"$248,343.04 ",
+Gross Loss,"($124,951.36)",
+CAGR,91.93%,
+Max. DD,"($43,703)",
+Max DD %,-16.83%,
+Total,481,481
+Avg. PnL ,$256.53 ,$256.53 
+Avg. PnL % ,3.52%,3.52%
+Avg. Unit PnL ,$0.58 ,$0 
+Avg. Bars ,2243.52,2243.52
+Avg. Bar PnL ,($4.95),($4.95)
+Avg. Time,8.48 / d,8.48 / d
+Total Efficiency,-21.71%,-21.71%
+Entry Efficiency,61.07%,61.07%
+Exit Efficiency,17.22%,17.22%
+Cumulative Profit,1690.99%,1690.99%
+Average MAE,($1.35),($1.35)
+Average MAE %,-3.94%,-3.94%
+Average MFE,$5.68 ,$5.68 
+Average MFE %,18.39%,18.39%
 Avg. Commission,$0 ,$0 
 Total Commission,$0 ,$0 
 Avg. Slippage,$0 ,$0 
 Total Slippage,$0 ,$0 
-Total Wins,159,159
-Winning %,37.32%,37.32%
-Total Win PnL,"$235,920.91 ","$235,920.91 "
-Max. Win PnL,"$12,047.36 ","$12,047.36 "
-Max. Win PnL %,115.17%,115.17%
-Avg. Win PnL ,"$1,483.78 ","$1,483.78 "
-Avg. Win PnL % ,18.67%,18.67%
-Avg. Win Bars ,4737.72,4737.72
-Avg. Win Bar PnL ,$0.33 ,$0.33 
-Avg. Win Time ,17.84 / d,17.84 / d
-Total Efficiency (Win),39.10%,39.10%
-Entry Efficiency (Win),92.02%,92.02%
-Exit Efficiency (Win),47.08%,47.08%
-Max. Consecutive Wins,10,10
-Total Losses,267,267
-Losing % ,62.68%,62.68%
-Total Loss PnL,"($107,704.06)","($107,704.06)"
-Max. Loss PnL,"($1,948.96)","($1,948.96)"
-Max. Loss PnL %,-16.20%,-16.20%
-Avg. Loss PnL,($403.39),($403.39)
-Avg. Loss PnL %,-4.65%,-4.65%
-Avg. Loss Bars,909.34,909.34
-Avg. Loss Bar PnL,($7.26),($7.26)
-Avg. Loss Time,3.47 / d,3.47 / d
+Total Wins,171,171
+Winning %,35.55%,35.55%
+Total Win PnL,"$248,343.04 ","$248,343.04 "
+Max. Win PnL,"$12,172.47 ","$12,172.47 "
+Max. Win PnL %,115.24%,115.24%
+Avg. Win PnL ,"$1,452.30 ","$1,452.30 "
+Avg. Win PnL % ,18.23%,18.23%
+Avg. Win Bars ,4681.27,4681.27
+Avg. Win Bar PnL ,$0.32 ,$0.32 
+Avg. Win Time ,17.57 / d,17.57 / d
+Total Efficiency (Win),39.48%,39.48%
+Entry Efficiency (Win),92.30%,92.30%
+Exit Efficiency (Win),47.18%,47.18%
+Max. Consecutive Wins,12,12
+Total Losses,310,310
+Losing % ,64.45%,64.45%
+Total Loss PnL,"($124,951.36)","($124,951.36)"
+Max. Loss PnL,"($2,027.52)","($2,027.52)"
+Max. Loss PnL %,-17.73%,-17.73%
+Avg. Loss PnL,($403.07),($403.07)
+Avg. Loss PnL %,-4.60%,-4.60%
+Avg. Loss Bars,898.83,898.83
+Avg. Loss Bar PnL,($7.86),($7.86)
+Avg. Loss Time,3.46 / d,3.46 / d
 Total Efficiency (Loss),-53.30%,-53.30%
-Entry Efficiency (Loss),44.90%,44.90%
-Exit Efficiency (Loss),1.81%,1.81%
-Max. Consecutive Losses,12,12
-Expectancy,"$80,663.14 ",
-Luck Coefficient,6.17,
-Payoff Ratio,4.01,
-Profit Factor,2.19,
-Exposure,39.99%,
-Recovery Factor,3.53,
-Risk Adjusted Return,2.39%,
-Sharpe Ratio,2.83,
-Sortino Ratio,28.52,
-Ulcer Index,3.53,
-Van Tharp SQN,2.15,
-Win / Loss Ratio,0.6,
+Entry Efficiency (Loss),44.95%,44.95%
+Exit Efficiency (Loss),1.75%,1.75%
+Max. Consecutive Losses,13,13
+Expectancy,"$77,607.98 ",
+Luck Coefficient,6.32,
+Payoff Ratio,3.96,
+Profit Factor,1.99,
+Exposure,43.47%,
+Recovery Factor,2.82,
+Risk Adjusted Return,2.11%,
+Sharpe Ratio,2.66,
+Sortino Ratio,19.71,
+Ulcer Index,4.24,
+Van Tharp SQN,1.89,
+Win / Loss Ratio,0.55,
 Beta,0,
 Alpha,0,
 Correlation,0,
