@@ -29739,7 +29739,7 @@ ScanDate,NextScanDate,Rank,Symbol,Company,Sector,Industry,Country,ThematicScore,
 20250808,20250815,125,RUN,Sunrun Inc,Technology,Solar,USA,2,6.76,,,103,67.85,,
 20250808,20250815,126,WGS,GeneDx Holdings Corp,Healthcare,Diagnostics & Research,USA,1,5.84,,,105,66.16,,
 20250814,20250815,1,ABVX,Abivax ADR,Healthcare,Biotechnology,France,22,5.79,1,572.73,4,986.88,6,1055.48
-20250814,,2,ATNF,,,,,6,31.64,2,315.85,5,591.82,7,451.45
+20250814,20250815,2,ATNF,,,,,6,31.64,2,315.85,5,591.82,7,451.45
 20250814,20250815,3,NEGG,Newegg Commerce Inc,Consumer Cyclical,Internet Retail,USA,3,21.83,3,302.93,2,2590.97,4,1335.99
 20250814,20250815,4,CELC,Celcuity Inc,Healthcare,Biotechnology,USA,22,7.85,4,277.38,7,385.86,9,312.15
 20250814,20250815,5,BSLK,Bolt Projects Holdings Inc,Basic Materials,Specialty Chemicals,USA,2,14.33,5,180.53,,,,
@@ -29791,7 +29791,7 @@ ScanDate,NextScanDate,Rank,Symbol,Company,Sector,Industry,Country,ThematicScore,
 20250814,20250815,51,CDTX,Cidara Therapeutics Inc,Healthcare,Biotechnology,USA,22,5.7,,,12,227.07,13,199.34
 20250814,20250815,52,OUST,Ouster Inc,Technology,Electronic Components,USA,3,9.46,,,13,205.58,12,217.19
 20250814,20250815,53,AMPX,Amprius Technologies Inc,Industrials,Electrical Equipment & Parts,USA,3,9.74,,,16,171.53,20,118.18
-20250814,,54,OKLO,,,,,6,8.69,,,17,155.32,49,54.23
+20250814,20250815,54,OKLO,,,,,6,8.69,,,17,155.32,49,54.23
 20250814,20250815,55,IREN,IREN Ltd,Financial,Capital Markets,Australia,5,7.51,,,18,154.06,41,64.62
 20250814,20250815,56,JOBY,Joby Aviation Inc,Industrials,Airports & Air Services,USA,1,7.61,,,19,147.79,19,120.99
 20250814,20250815,57,AMSC,American Superconductor Corp,Industrials,Specialty Industrial Machinery,USA,1,6.03,,,23,128.77,51,52.34
@@ -29808,10 +29808,10 @@ ScanDate,NextScanDate,Rank,Symbol,Company,Sector,Industry,Country,ThematicScore,
 20250814,20250815,68,OPRX,OptimizeRx Corp,Healthcare,Health Information Services,USA,1,7.95,,,39,91.2,10,219.24
 20250814,20250815,69,CUPR,Cuprina Holdings (Cayman) Ltd,Healthcare,Medical Instruments & Supplies,Singapore,1,7.02,,,41,89.9,,
 20250814,20250815,70,AIRS,Airsculpt Technologies Inc,Healthcare,Medical Care Facilities,USA,3,8.45,,,42,88.52,,
-20250814,,71,GPRE,,,,,6,5.64,,,43,86.24,,
+20250814,20250815,71,GPRE,,,,,6,5.64,,,43,86.24,,
 20250814,20250815,72,EYPT,EyePoint Pharmaceuticals Inc,Healthcare,Biotechnology,USA,22,6.26,,,44,85.47,42,63.9
 20250814,20250815,73,ORIC,ORIC Pharmaceuticals Inc,Healthcare,Biotechnology,USA,22,5.56,,,45,83.55,,
-20250814,,74,BYON,,,,,6,8.76,,,48,80.64,,
+20250814,20250815,74,BYON,,,,,6,8.76,,,48,80.64,,
 20250814,20250815,75,BBAI,BigBear.ai Holdings Inc,Technology,Information Technology Services,USA,2,8.37,,,50,79.69,,
 20250814,20250815,76,ASTS,AST SpaceMobile Inc,Technology,Communication Equipment,USA,4,6.71,,,51,78.57,32,78.83
 20250814,20250815,77,OCUL,Ocular Therapeutix Inc,Healthcare,Biotechnology,USA,22,4.69,,,53,71.18,40,65.58
@@ -29824,7 +29824,7 @@ ScanDate,NextScanDate,Rank,Symbol,Company,Sector,Industry,Country,ThematicScore,
 20250814,20250815,84,ELF,e.l.f. Beauty Inc,Consumer Defensive,Household & Personal Products,USA,2,4.51,,,64,61.47,60,35.16
 20250814,20250815,85,FWRD,Forward Air Corp,Industrials,Integrated Freight & Logistics,USA,1,5.3,,,65,60.22,,
 20250814,20250815,86,LITE,Lumentum Holdings Inc,Technology,Communication Equipment,USA,4,4.27,,,67,59.79,,
-20250814,,87,ASPI,,,,,6,9.23,,,69,58.47,26,83.51
+20250814,20250815,87,ASPI,,,,,6,9.23,,,69,58.47,26,83.51
 20250814,20250815,88,FUTU,Futu Holdings Ltd ADR,Financial,Capital Markets,Hong Kong,5,4.02,,,70,57.8,31,79.86
 20250814,20250815,89,BKSY,BlackSky Technology Inc,Industrials,Specialty Business Services,USA,2,7.5,,,71,57.73,,
 20250814,20250815,90,BHC,Bausch Health Companies Inc,Healthcare,Drug Manufacturers - Specialty & Generic,Canada,4,4.85,,,73,57.11,,
@@ -29839,7 +29839,7 @@ ScanDate,NextScanDate,Rank,Symbol,Company,Sector,Industry,Country,ThematicScore,
 20250814,20250815,99,HROW,Harrow Inc,Healthcare,Drug Manufacturers - Specialty & Generic,USA,4,6.12,,,84,50.08,,
 20250814,20250815,100,LTBR,Lightbridge Corp,Industrials,Electrical Equipment & Parts,USA,3,9.08,,,86,49.13,30,81.92
 20250814,20250815,101,FIGS,Figs Inc,Consumer Cyclical,Apparel Manufacturing,USA,2,4.72,,,89,48.7,,
-20250814,,102,IE,,,,,6,6.28,,,90,46.81,39,66.33
+20250814,20250815,102,IE,,,,,6,6.28,,,90,46.81,39,66.33
 20250814,20250815,103,MGNI,Magnite Inc,Communication Services,Advertising Agencies,USA,1,4.27,,,91,46.25,,
 20250814,20250815,104,MEG,Montrose Environmental Group Inc,Industrials,Waste Management,USA,1,7.15,,,93,45.27,61,33.91
 20250814,20250815,105,GH,Guardant Health Inc,Healthcare,Diagnostics & Research,USA,1,4.88,,,94,44.89,62,30.96
