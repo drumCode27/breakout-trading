@@ -31029,3 +31029,143 @@ ScanDate,NextScanDate,Rank,Symbol,Company,Sector,Industry,Country,ThematicScore,
 20251010,20251017,146,MP,MP Materials Corporation,Basic Materials,Other Industrial Metals & Mining,USA,10,7.66,,,101,73.2,69,239.72
 20251010,20251017,147,RUN,Sunrun Inc,Technology,Solar,USA,1,6.92,,,102,72.95,,
 20251010,20251017,148,RAPP,Rapport Therapeutics Inc,Healthcare,Biotechnology,USA,43,7.08,,,105,72.3,,
+20251017,20251024,1,WOLF,Wolfspeed Inc,Technology,Semiconductors,USA,8,18.34,1,1290.13,1,2130.22,1,1328.57
+20251017,20251024,2,STI,Solidion Technology Inc,Industrials,Electrical Equipment & Parts,USA,4,20.56,2,365.27,11,346.62,54,267.53
+20251017,20251024,3,PRAX,Praxis Precision Medicines Inc,Healthcare,Biotechnology,USA,52,8.38,3,350,15,245.81,14,538.84
+20251017,20251024,4,NVA,Nova Minerals Limited ADR,Basic Materials,Other Industrial Metals & Mining,Australia,9,14.48,4,322.67,3,504.06,26,427.18
+20251017,20251024,5,QURE,uniQure N.V,Healthcare,Biotechnology,Netherlands,52,9.09,5,318.17,13,281.58,11,549.5
+20251017,20251024,6,AQMS,Aqua Metals Inc,Industrials,Waste Management,USA,1,28.71,6,253.4,39,143.89,,
+20251017,20251024,7,GWH,ESS Tech Inc,Industrials,Electrical Equipment & Parts,USA,4,22.3,7,245.1,21,208.77,,
+20251017,20251024,8,BKKT,Bakkt Holdings Inc,Technology,Software - Infrastructure,USA,5,19.17,8,241.95,,,45,305.22
+20251017,20251024,9,ABVE,Above Food Ingredients Inc,Consumer Defensive,Packaged Foods,Canada,1,18.53,9,227.95,,,2,1000
+20251017,20251024,10,TMQ,Trilogy Metals Inc,Basic Materials,Other Industrial Metals & Mining,Canada,9,13.85,10,219.8,16,240,36,342.47
+20251017,20251024,11,ASTX,Tradr 2X Long ASTS Daily ETF,Financial,Exchange Traded Fund,USA,2,19.08,11,205.46,,,,
+20251017,20251024,12,CRML,Critical Metals Corp,Basic Materials,Other Industrial Metals & Mining,United Kingdom,9,20.57,12,190.53,7,378.44,4,865.74
+20251017,20251024,13,CLPT,ClearPoint Neuro Inc,Healthcare,Medical Devices,USA,1,10.47,13,126.61,54,123.02,,
+20251017,20251024,14,EVAX,Evaxion A/S ADR,Healthcare,Biotechnology,Denmark,52,17.61,14,119.74,35,156.23,30,402.96
+20251017,20251024,15,NVTS,Navitas Semiconductor Corp,Technology,Semiconductors,USA,8,11.02,15,109.13,45,133.81,8,714.44
+20251017,20251024,16,LAC,Lithium Americas Corp (NewCo),Basic Materials,Other Industrial Metals & Mining,Canada,9,14.6,16,108.92,67,103.9,,
+20251017,20251024,17,ARTV,Artiva Biotherapeutics Inc,Healthcare,Biotechnology,USA,52,8.57,17,108.68,47,132.05,73,203.54
+20251017,20251024,18,FLNC,Fluence Energy Inc,Utilities,Utilities - Renewable,USA,2,13.03,18,95.73,55,122.33,37,340.38
+20251017,20251024,19,OMER,Omeros Corporation,Healthcare,Biotechnology,USA,52,7.8,19,93.78,46,132.76,,
+20251017,20251024,20,HOND,HCM II Acquisition Corp,Financial,Shell Companies,USA,2,12.66,20,92,48,131.43,,
+20251017,20251024,21,GRAL,GRAIL Inc,Healthcare,Diagnostics & Research,USA,2,9.14,21,87.27,58,117.15,62,235.34
+20251017,20251024,22,LXEO,Lexeo Therapeutics Inc,Healthcare,Biotechnology,USA,52,8.34,22,86.02,53,124.88,32,383.84
+20251017,20251024,23,BETR,Better Home & Finance Holding Co,Financial,Mortgage Finance,USA,1,19.25,23,85.83,8,365.81,18,516.25
+20251017,20251024,24,ASTS,AST SpaceMobile Inc,Technology,Communication Equipment,USA,5,9.94,24,85.12,,,56,258.63
+20251017,20251024,25,ORKA,Oruka Therapeutics Inc,Healthcare,Biotechnology,USA,52,9.29,25,76.72,91,78.91,57,257.81
+20251017,20251024,26,BCAX,Bicara Therapeutics Inc,Healthcare,Biotechnology,USA,52,8.34,26,74.81,,,,
+20251017,20251024,27,CCCX,Churchill Capital Corp X,Financial,Shell Companies,USA,2,12.46,27,73.38,64,108.09,,
+20251017,20251024,28,UAMY,United States Antimony Corp,Basic Materials,Other Industrial Metals & Mining,USA,9,14.82,28,72.42,24,200,46,301.08
+20251017,20251024,29,USAR,USA Rare Earth Inc,Basic Materials,Other Industrial Metals & Mining,USA,9,14.35,29,70.65,90,79.48,64,233.69
+20251017,20251024,30,ATXS,Astria Therapeutics Inc,Healthcare,Biotechnology,USA,52,5.07,30,69.93,76,91.99,,
+20251017,20251024,31,KZR,Kezar Life Sciences Inc,Healthcare,Biotechnology,USA,52,6.94,31,69.15,,,,
+20251017,20251024,32,APLD,Applied Digital Corporation,Technology,Information Technology Services,USA,1,10.14,32,67.19,20,213.84,12,547.26
+20251017,20251024,33,IMNM,Immunome Inc,Healthcare,Biotechnology,USA,52,8.64,33,66.88,,,,
+20251017,20251024,34,ANAB,AnaptysBio Inc,Healthcare,Biotechnology,USA,52,7.13,34,66.17,,,,
+20251017,20251024,35,SANA,Sana Biotechnology Inc,Healthcare,Biotechnology,USA,52,9.33,35,62.78,,,,
+20251017,20251024,36,RGTI,Rigetti Computing Inc,Technology,Computer Hardware,USA,4,12.66,36,62.62,31,170.6,29,409.67
+20251017,20251024,37,ALM,Almonty Industries Inc,Basic Materials,Other Industrial Metals & Mining,Canada,9,8.35,37,62.13,86,81.06,,
+20251017,20251024,38,MVST,Microvast Holdings Inc,Consumer Cyclical,Auto Parts,USA,3,10.58,38,61.5,82,85.67,61,236.99
+20251017,20251024,39,BITF,Bitfarms Ltd,Financial,Capital Markets,Canada,7,12.37,39,60.58,9,363.89,16,526.25
+20251017,20251024,40,GLUE,Monte Rosa Therapeutics Inc,Healthcare,Biotechnology,USA,52,6.91,40,58.77,,,,
+20251017,20251024,41,NTLA,Intellia Therapeutics Inc,Healthcare,Biotechnology,USA,52,8.76,41,58.76,63,109.21,63,234.01
+20251017,20251024,42,IREN,IREN Ltd,Financial,Capital Markets,Australia,7,10.25,42,57.14,18,236.4,3,978.51
+20251017,20251024,43,LAES,SEALSQ Corp,Technology,Semiconductors,Switzerland,8,16.38,43,55.48,93,78.34,,
+20251017,20251024,44,EOSE,Eos Energy Enterprises Inc,Industrials,Electrical Equipment & Parts,USA,4,9.62,44,54.1,27,183.77,58,255.56
+20251017,20251024,45,DPRO,Draganfly Inc,Industrials,Aerospace & Defense,Canada,4,15.85,45,53.67,6,432.2,,
+20251017,20251024,46,CIFR,Cipher Mining Inc,Financial,Capital Markets,USA,7,11.76,46,52.77,25,192.21,9,675.21
+20251017,20251024,47,IMAB,I-Mab ADR,Healthcare,Biotechnology,USA,52,11.17,47,52.24,32,167.13,7,761.19
+20251017,20251024,48,SLDP,Solid Power Inc,Consumer Cyclical,Auto Parts,USA,3,13.92,48,52.04,72,96.89,22,461.06
+20251017,20251024,49,SYRE,Spyre Therapeutics Inc,Healthcare,Biotechnology,USA,52,7.53,49,51.01,,,,
+20251017,20251024,50,MNMD,Mind Medicine Inc,Healthcare,Biotechnology,USA,52,7.84,50,51,,,,
+20251017,20251024,51,APGE,Apogee Therapeutics Inc,Healthcare,Biotechnology,USA,52,5.49,51,50.97,,,,
+20251017,20251024,52,HIVE,HIVE Digital Technologies Ltd,Financial,Capital Markets,USA,7,10.28,52,50.66,34,157.21,51,285.81
+20251017,20251024,53,PSNL,Personalis Inc,Healthcare,Diagnostics & Research,USA,2,7.72,53,49.67,,,,
+20251017,20251024,54,AMD,Advanced Micro Devices Inc,Technology,Semiconductors,USA,8,4.81,54,48.09,,,,
+20251017,20251024,55,KOD,Kodiak Sciences Inc,Healthcare,Biotechnology,USA,52,13.78,55,47.95,28,171.68,13,546.79
+20251017,20251024,56,IRON,Disc Medicine Inc,Healthcare,Biotechnology,USA,52,4.74,56,47.95,,,,
+20251017,20251024,57,CDTX,Cidara Therapeutics Inc,Healthcare,Biotechnology,USA,52,7.33,57,47.75,87,80.8,23,457.8
+20251017,20251024,58,IMTX,Immatics N.V,Healthcare,Biotechnology,Germany,52,6.58,58,47.31,,,,
+20251017,20251024,59,INDI,Indie Semiconductor Inc,Technology,Semiconductor Equipment & Materials,USA,1,7.25,59,46.56,,,,
+20251017,20251024,60,MUX,McEwen Inc,Basic Materials,Other Precious Metals & Mining,Canada,2,6.11,60,46.56,78,90.85,,
+20251017,20251024,61,STOK,Stoke Therapeutics Inc,Healthcare,Biotechnology,USA,52,7.32,61,46.42,29,171.5,33,377.64
+20251017,20251024,62,BTDR,Bitdeer Technologies Group,Technology,Software - Application,Singapore,2,10.19,62,46.02,101,74.69,74,202.14
+20251017,20251024,63,XNCR,Xencor Inc,Healthcare,Biotechnology,USA,52,6.61,63,43.54,,,,
+20251017,20251024,64,CLSK,Cleanspark Inc,Financial,Capital Markets,USA,7,9.53,64,43.32,,,,
+20251017,20251024,65,QBTS,D-Wave Quantum Inc,Technology,Computer Hardware,USA,4,12.07,65,42.6,68,99.22,24,428.69
+20251017,20251024,66,UUUU,Energy Fuels Inc,Energy,Uranium,USA,2,11.66,66,41.72,50,129.91,28,412.41
+20251017,20251024,67,TMC,TMC the metals company Inc,Basic Materials,Other Industrial Metals & Mining,Canada,9,9.94,67,41.45,,,41,320
+20251017,20251024,68,ZVRA,Zevra Therapeutics Inc,Healthcare,Biotechnology,USA,52,6.86,68,40.81,,,,
+20251017,20251024,69,SEPN,Septerna Inc,Healthcare,Biotechnology,USA,52,6.55,69,40.51,100,74.8,52,285.66
+20251017,20251024,70,LBRT,Liberty Energy Inc,Energy,Oil & Gas Equipment & Services,USA,2,5.93,70,39.91,,,,
+20251017,20251024,71,RLAY,Relay Therapeutics Inc,Healthcare,Biotechnology,USA,52,6.48,71,39.27,94,77.81,,
+20251017,20251024,72,RKLB,Rocket Lab Corp,Industrials,Aerospace & Defense,USA,4,7.85,72,38.67,,,60,237.6
+20251017,20251024,73,PPTA,Perpetua Resources Corp,Basic Materials,Other Precious Metals & Mining,USA,2,7.9,73,38.29,,,,
+20251017,20251024,74,NB,NioCorp Developments Ltd,Basic Materials,Other Industrial Metals & Mining,USA,9,13.05,74,38.16,37,153.44,50,293.69
+20251017,20251024,75,SION,Sionna Therapeutics Inc,Healthcare,Biotechnology,USA,52,7.62,75,37.99,104,74.2,44,305.72
+20251017,20251024,76,BTU,Peabody Energy Corp,Energy,Thermal Coal,USA,1,6.42,76,37.81,75,95.2,,
+20251017,20251024,77,SNDK,Sandisk Corp,Technology,Computer Hardware,USA,4,8.37,77,37.13,17,237.57,38,338.41
+20251017,20251024,78,COGT,Cogent Biosciences Inc,Healthcare,Biotechnology,USA,52,5.03,78,36.93,,,53,284.74
+20251017,20251024,79,HOUS,Anywhere Real Estate Inc,Real Estate,Real Estate Services,USA,2,5.64,79,36.78,40,139.95,68,218.09
+20251017,20251024,80,SEI,Solaris Energy Infrastructure Inc,Energy,Oil & Gas Equipment & Services,USA,2,7.81,80,36.51,95,77.08,,
+20251017,20251024,81,SHLS,Shoals Technologies Group Inc,Technology,Solar,USA,2,7.99,81,36.49,102,74.56,,
+20251017,20251024,82,NAMS,NewAmsterdam Pharma Company NV,Healthcare,Biotechnology,Netherlands,52,6.68,82,36.38,,,,
+20251017,20251024,83,POET,POET Technologies Inc,Technology,Semiconductors,Canada,8,12.3,83,36.05,,,,
+20251017,20251024,84,TTI,Tetra Technologies Inc,Industrials,Conglomerates,USA,1,6,84,34.91,60,114.07,71,210.87
+20251017,20251024,85,HUT,Hut 8 Corp,Financial,Capital Markets,USA,7,8.96,85,33.72,56,119.08,48,298.52
+20251017,20251024,86,CREV,Carbon Revolution Public Ltd. Co,Consumer Cyclical,Auto Parts,Ireland,3,8.09,86,33.17,,,,
+20251017,20251024,87,CMPS,Compass Pathways Plc ADR,Healthcare,Medical Care Facilities,United Kingdom,2,6.54,87,33.06,,,,
+20251017,20251024,88,RCUS,Arcus Biosciences Inc,Healthcare,Biotechnology,USA,52,6.6,88,32.93,99,74.84,,
+20251017,20251024,89,TARS,Tarsus Pharmaceuticals Inc,Healthcare,Biotechnology,USA,52,4.32,89,32.6,97,76.16,,
+20251017,20251024,90,MBX,MBX Biosciences Inc,Healthcare,Biotechnology,USA,52,9.23,90,32.2,,,,
+20251017,20251024,91,VKTX,Viking Therapeutics Inc,Healthcare,Biotechnology,USA,52,6.05,91,32.01,,,,
+20251017,20251024,92,BE,Bloom Energy Corp,Industrials,Electrical Equipment & Parts,USA,4,9.21,92,31.28,10,358.66,15,532.09
+20251017,20251024,93,AIP,Arteris Inc,Technology,Semiconductors,USA,8,7.1,93,31.1,,,,
+20251017,20251024,94,STEM,Stem Inc,Utilities,Utilities - Renewable,USA,2,12.45,94,30.72,36,155.23,65,232.3
+20251017,20251024,95,DNLI,Denali Therapeutics Inc,Healthcare,Biotechnology,USA,52,5.52,95,30.67,,,,
+20251017,20251024,96,ATAI,ATAI Life Sciences N.V,Healthcare,Biotechnology,Netherlands,52,8.19,96,30.3,49,131.18,31,400
+20251017,20251024,97,PATH,UiPath Inc,Technology,Software - Infrastructure,USA,5,6.66,97,30.08,,,,
+20251017,20251024,98,DGNX,Diginex Ltd,Industrials,Consulting Services,United Kingdom,1,17.94,,,2,1323.08,6,786.23
+20251017,20251024,99,SUPX,Super X AI Technology Ltd,Technology,Software - Infrastructure,Singapore,5,11.9,,,4,471.9,19,490.2
+20251017,20251024,100,MENS,Jyong Biotech Ltd,Healthcare,Biotechnology,Taiwan,52,14.74,,,5,435.88,,
+20251017,20251024,101,OPEN,Opendoor Technologies Inc,Real Estate,Real Estate Services,USA,2,10.65,,,12,333.94,10,601.96
+20251017,20251024,102,CELC,Celcuity Inc,Healthcare,Biotechnology,USA,52,6.42,,,14,277.89,21,462.95
+20251017,20251024,103,ONDS,Ondas Holdings Inc,Technology,Communication Equipment,USA,5,11.78,,,19,217.08,5,839.51
+20251017,20251024,104,KRRO,Korro Bio Inc,Healthcare,Biotechnology,USA,52,12.48,,,22,204.77,66,226.74
+20251017,20251024,105,MLYS,Mineralys Therapeutics Inc,Healthcare,Biotechnology,USA,52,5.41,,,23,203.77,67,225.07
+20251017,20251024,106,VERI,Veritone Inc,Technology,Software - Infrastructure,USA,5,11.77,,,26,190.7,,
+20251017,20251024,107,RR,Richtech Robotics Inc,Industrials,Specialty Industrial Machinery,USA,1,13.89,,,30,170.65,,
+20251017,20251024,108,WULF,TeraWulf Inc,Financial,Capital Markets,USA,7,8.77,,,33,159.89,20,485.29
+20251017,20251024,109,AVAH,Aveanna Healthcare Holdings Inc,Healthcare,Medical Care Facilities,USA,2,4.08,,,38,145.27,,
+20251017,20251024,110,FIG,Figma Inc,Technology,Software - Application,USA,2,7.7,,,41,138.62,,
+20251017,20251024,111,APPX,Tradr 2X Long APP Daily ETF,Financial,Exchange Traded Fund,USA,2,11.52,,,42,137.72,,
+20251017,20251024,112,FORD,Forward Industries Inc,Consumer Cyclical,Footwear & Accessories,USA,1,10.68,,,43,136.41,35,349.38
+20251017,20251024,113,JMIA,Jumia Technologies Ag ADR,Consumer Cyclical,Internet Retail,Germany,1,6.3,,,44,134.2,27,424.39
+20251017,20251024,114,SIFY,Sify Technologies Limited ADR,Communication Services,Telecom Services,India,1,10.5,,,51,127.81,59,239.07
+20251017,20251024,115,VSAT,Viasat Inc,Technology,Communication Equipment,USA,5,6.66,,,52,127.04,40,325.89
+20251017,20251024,116,AMRC,Ameresco Inc,Industrials,Engineering & Construction,USA,1,6.26,,,57,117.48,47,299.7
+20251017,20251024,117,NKTR,Nektar Therapeutics,Healthcare,Biotechnology,USA,52,6.48,,,59,116.61,17,523.19
+20251017,20251024,118,LPTH,Lightpath Technologies Inc,Technology,Electronic Components,USA,1,12.18,,,61,111.97,39,327.59
+20251017,20251024,119,NBIS,Nebius Group N.V,Technology,Software - Infrastructure,Netherlands,5,7.31,,,62,111.29,25,427.38
+20251017,20251024,120,OLMA,Olema Pharmaceuticals Inc,Healthcare,Biotechnology,USA,52,7.92,,,65,107.54,,
+20251017,20251024,121,SPAI,Safe Pro Group Inc,Industrials,Aerospace & Defense,USA,4,11.2,,,66,105.75,49,297.78
+20251017,20251024,122,INSG,Inseego Corp,Technology,Communication Equipment,USA,5,7.6,,,69,98.05,,
+20251017,20251024,123,COMM,CommScope Holding Company Inc,Technology,Communication Equipment,USA,5,4.12,,,70,97.93,34,354.76
+20251017,20251024,124,PL,Planet Labs PBC,Industrials,Aerospace & Defense,USA,4,7.1,,,71,97.74,42,313.56
+20251017,20251024,125,RUN,Sunrun Inc,Technology,Solar,USA,2,6.94,,,73,95.88,72,210.17
+20251017,20251024,126,ARWR,Arrowhead Pharmaceuticals Inc,Healthcare,Biotechnology,USA,52,4.51,,,74,95.28,70,212.21
+20251017,20251024,127,FTRE,Fortrea Holdings Inc,Healthcare,Biotechnology,USA,52,6.34,,,77,90.91,,
+20251017,20251024,128,UPB,Upstream Bio Inc,Healthcare,Biotechnology,USA,52,5.14,,,79,89.95,,
+20251017,20251024,129,WBTN,Webtoon Entertainment Inc,Communication Services,Internet Content & Information,USA,1,5.35,,,80,88.61,,
+20251017,20251024,130,WDC,Western Digital Corp,Technology,Computer Hardware,USA,4,5.21,,,81,88.3,55,266.86
+20251017,20251024,131,UEC,Uranium Energy Corp,Energy,Uranium,USA,2,8.54,,,83,82.23,69,217.74
+20251017,20251024,132,REAL,Therealreal Inc,Consumer Cyclical,Luxury Goods,USA,1,5.79,,,84,81.91,,
+20251017,20251024,133,ZBIO,Zenas Biopharma Inc,Healthcare,Biotechnology,USA,52,11.14,,,85,81.71,75,202.02
+20251017,20251024,134,AMLX,Amylyx Pharmaceuticals Inc,Healthcare,Biotechnology,USA,52,6.92,,,88,80.56,43,309.59
+20251017,20251024,135,VSTM,Verastem Inc,Healthcare,Biotechnology,USA,52,5.74,,,89,80.43,,
+20251017,20251024,136,MU,Micron Technology Inc,Technology,Semiconductors,USA,8,4.21,,,92,78.69,,
+20251017,20251024,137,XERS,Xeris Biopharma Holdings Inc,Healthcare,Biotechnology,USA,52,4.51,,,96,76.67,,
+20251017,20251024,138,DNTH,Dianthus Therapeutics Inc,Healthcare,Biotechnology,USA,52,5.78,,,98,75.18,,
+20251017,20251024,139,DYN,Dyne Therapeutics Inc,Healthcare,Biotechnology,USA,52,5.67,,,103,74.26,,
+20251017,20251024,140,PI,Impinj Inc,Technology,Semiconductors,USA,8,4.97,,,105,73.47,76,201.68
