@@ -12,7 +12,7 @@ There will be three point-in-time scan results each week. Each scan will have th
 
 - Average Daily Range Percent (ADR) of past 20 days >= 4 (3.5 prior to 2024).
 - Close above 200 Day Simple Moving Average.
-- Share price >= 5.
+- Share price >= 2.5.
 - Average Daily Dollar Volume of past 20 days >= 6,000,000.
 - Average Daily Volume of past 20 days >= 250,000.
 
